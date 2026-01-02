@@ -83,9 +83,9 @@ async def health():
 @app.get("/api/health")
 async def health_api():
     return {
-        "Api Owner": "@ISmartCoder",
-        "Api Developer": "@ISmartCoder",
-        "Api Updates": "@TheSmartDev",
+           "Api Own: ": "@saifulmn: Telegram username,
+           : "Saiful Islam",
+        "Api Updates": ": "@saifulmn,
         "Api About": "An Asynchronous Multifunctional API Built With Pyrofork Telethon & FastAPI Framework & Python Lang By @ISmartCoder",
         "Api Version": "1.16.1",
         "Api Health": "Operational",
