@@ -6,9 +6,9 @@
 [![License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)
 [![Maintained by](https://img.shields.io/badge/Maintained%20by-@abirxdhack-blue)](https://t.me/abirxdhack)
 
-**A360API** is an open-source, asynchronous Python API built with **FastAPI**, a modern and high-performance web framework. This project combines custom-built libraries with popular ones to deliver a powerful toolkit for developers. Currently under active development, A360API is not yet fully functional but is being crafted with passion by **Abir Arafat Chawdhury (@abirxdhack)** to provide a versatile set of tools for various applications.
+**A360API** is an open-source, asynchronous Python API built with **FastAPI**, a modern and high-performance web framework. This project combines custom-built libraries with popular ones to deliver a powerful toolkit for developers. Currently under active development, A360API is not yet fully functional but is being crafted with passion by **Abir Arafat Chawdhury (@saifulmn)** to provide a versatile set of tools for various applications.
 
-> **Note**: This project is in active development. Features and endpoints are being added and refined. Stay tuned for updates via our [Telegram channel](https://t.me/TheSmartDev)!
+> **Note**: This project is in active development. Features and endpoints are being added and refined. Stay tuned for updates via our [Telegram channel](https://t.me/saifulmn)!
 
 ## 📖 Table of Contents
 
@@ -136,18 +136,13 @@ A360API is open-source, and we welcome contributions from the community! To cont
 
 4. **Submit a Pull Request**: Push your changes and create a PR on GitHub. Ensure your code follows the project's style and includes tests.
 
-5. **Contact**: Reach out to [@abirxdhack](https://t.me/abirxdhack) on Telegram for questions or to discuss your contribution.
+5. **Contactt*((https://t.me/saifulmn( on Telegram for questions or to discuss your contribution.
 
 Please read our [Contributing Guidelines](CONTRIBUTING.md) (to be added) for more details.
 
 ## 📬 Contact
 
-- **Developer**: Abir Arafat Chawdhury (@abirxdhack)
-- **Telegram**: [t.me/abirxdhack](https://t.me/abirxdhack)
-- **Updates Channel**: [t.me/TheSmartDev](https://t.me/TheSmartDev)
-- **GitHub**: [github.com/abirxdhack](https://github.com/abirxdhack)
-- **Email**: abrixdhackz.info.me@gmail.com
-
+--*Developerr*: Saiful Islam Sarkar--**Telegram***:[t.me/abirxdhackk((https://t.me/saifulmn()-- **Updates Channel**: [t.me/saifulmn((https://t.me/saifulmn)-- **GitHub**:[[github.com/daiful167]github.com/saifulmn]https://g)-- **Email**: saifulsajedul@gmail.com
 For issues, feature requests, or feedback, open an issue on GitHub or contact @abirxdhack on Telegram.
 
 ## 📜 License
@@ -156,6 +151,6 @@ A360API is licensed under the [MIT License](LICENSE). Feel free to use, modify, 
 
 ---
 
-**Built with ❤️ by @abirxdhack**
+**Built with ❤️ by @saifulmn*
 
 © 2025 A360API. All rights reserved.
